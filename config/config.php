@@ -17,7 +17,7 @@
   \Tolio\config::set('db:name', 'tolio');
   \Tolio\config::set('db:host', 'localhost:3306');
   \Tolio\config::set('db:user', 'root');
-  \Tolio\config::set('db:password', '5cbcd327');
+  \Tolio\config::set('db:password', '');
   \Tolio\config::set('db:prefix', 'tolio_');
 
   /**
